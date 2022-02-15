@@ -1,7 +1,7 @@
 {
   "name": "hexo-post-link",
   "version": "1.0.0",
-  "description": "generate a readme-file.md file contains all of blogs posts link.",
+  "description": "Automatically convert markdown links with post slugs to proper internal URLs.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
